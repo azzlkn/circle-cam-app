@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.gclient_done
+.vscode/
+/build/
+node_modules/
+yarn.lock
