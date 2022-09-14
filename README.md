@@ -1,7 +1,5 @@
 # Circle Cam App
 
-![CircleCamApp](./icon.png)
-
 A desktop webcam application for streamers.
 
 ![CircleCamApp](./preview.png)
